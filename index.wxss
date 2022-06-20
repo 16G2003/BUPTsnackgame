@@ -1,0 +1,58 @@
+
+   .view_1 {
+    position: relative
+  }
+
+  
+.btn1 {
+    width: 40%;
+    margin-top: 20rpx;
+    background-color: burlywood;
+    color: white;
+    border-radius: 98rpx;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+   /* left: 0;
+    top: 0px;*/
+   right: 0;
+    bottom: 0;
+    text-align: center;
+  }
+  .btn2 {
+    width: 40%;
+    margin-top: 20rpx;
+    background-color: burlywood;
+    color: white;
+    border-radius: 98rpx;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    /*top: 0px;
+   right: 0;*/
+    bottom: 0;
+    text-align: center;
+  }
+  .btn {
+    width: 40%;
+    margin-top: 20rpx;
+    background-color: burlywood;
+    color: white;
+    border-radius: 98rpx;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    text-align: center;
+    left: 0;
+    /*top: 0px;*/
+   right: 0;
+    /*bottom: 0;*/
+  }
+  

@@ -1,0 +1,21 @@
+<!--index.wxml-->
+<view style="margin-top:20px;">
+
+<view style="text-align:center;">
+<p style="font-size:18px;">贪吃蛇</p>
+    </view>
+  </view>
+
+ 
+ <view > <button class="btn" style="margin-top:30px;" bindtap="up" >上</button> </view>
+ <view class='container'>
+  <view class="view_1"style="margin-top:30px">
+  <button class="btn1"   bindtap="left" >左</button>
+</view>
+<view class="view_1">
+  <button class="btn2"  bindtap="right" >右</button>
+</view>
+<view ><button class="btn" style="margin-top:10px;"  bindtap="down" >下  </button></view>
+</view>
+
+ 
